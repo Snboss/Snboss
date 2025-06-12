@@ -3,28 +3,24 @@
 
 - 🔭 I’m currently working on **Coming Soon**
 
-- 🌱 I’m currently learning **React-Native, Golang, Laravel**
-
 - 👯 I’m looking to collaborate on **Coming Soon**
 
 - 🤝 I’m looking for help with **Coming Soon**
 
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
-
-- 📝 I regularly write articles on [Coming Soon](Coming Soon)
+- 👨‍💻 All of my projects are available at [GitHub](Youtube)
 
 - 💬 Ask me about **everything u want to know**
 
 - 📫 How to reach me **tegarpersada34@gmail.com**
 
-- 📄 Know about my experiences [Coming Soon](Coming Soon)
+- 📄 Know about my experiences [MicroController-IoT](Web_Development)
 
-- ⚡ Fun fact **the fact is i am so funny**
+- ⚡ Fun fact **the fact is i am so funny but kinda dark humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/psn_204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="psn_204" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tegar persada putra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tegar persada putra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tegar persada putra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tegar persada " height="30" width="40" /></a>
 <a href="https://fb.com/tegar persada putra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tegar persada putra" height="30" width="40" /></a>
 <a href="https://instagram.com/psn_204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="psn_204" height="30" width="40" /></a>
 </p>
